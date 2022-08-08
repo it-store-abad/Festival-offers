@@ -6,13 +6,13 @@ a{
 }
 #m{
     font-family: 'Bebas Neue', cursive;;
-    font-size: 20px;
+    font-size: 25px;
 }
  
 .contact_1 a{
     color: black;
-    text-shadow: none;
     font-family: 'Lobster', cursive;
+    text-shadow: none;
 }
 .contact_1 h3{
     display: inline;
@@ -25,28 +25,8 @@ a{
     font-family: 'Bebas Neue', cursive;
     font-size: 25px;
 }
-.im{
-    margin-top:8px;
-    border: 00.5px solid;
-    height: 250px;
-    width: 340px;
-    
-}
-   
-.imn{
-    margin-top: 8px;
-    border: 00.5px solid;
-    height: 270px;
-    width: 330px;
-    
-}
-.imnn{
-    margin-top:8px;
-    border: 00.5px solid;
-    height: 270px;
-    width: 330px;
-   
-}
-nav{
-    max-width:100%;
+#head{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Pacifico', cursive;
 }
